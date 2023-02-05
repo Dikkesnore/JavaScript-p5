@@ -1,3 +1,4 @@
+// This class controls all the ball movement
 class Ball
   {
     constructor(x, y, size = 10)
